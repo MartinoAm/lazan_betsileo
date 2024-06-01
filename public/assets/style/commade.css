@@ -1,0 +1,4 @@
+.content-page {
+    display: flex;
+    justify-content: space-around;
+}

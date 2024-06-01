@@ -1,0 +1,17 @@
+ul {
+    color: white;
+    display: flex;
+    margin: 1px 16px;
+}
+
+ul li {
+
+    list-style: none;
+    cursor: pointer;
+    margin: 0 45px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
